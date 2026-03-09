@@ -1,0 +1,35 @@
+Section: Company Overview
+
+MyToshika IT Solutions is a service-based IT company specializing in backend development and enterprise application solutions.
+The company provides end-to-end software services primarily using Java, Spring Boot, Microservices architecture, REST APIs, and related technologies.
+
+The organization focuses on delivering scalable, secure, and high-performance backend systems to clients across multiple domains.
+
+Total Employee Strength: 15 employees
+
+
+Section: Office Information
+
+Office Address:
+D-235, Omicron-1A
+Greater Noida – 201310
+
+Contact Number:
+9999999999
+
+
+Section: Active Projects & Employee Allocation
+
+The company is currently working on the following client projects:
+
+Tenxengage Project
+Team Members: Amit, Kundan, Anurag, Durgesh, Chandresh
+
+ASTM Project
+Team Member: Sumit
+
+Trigent Project
+Team Member: Monu
+
+EPAM Project
+Team Members: Mohit, Deepak, Ankit
