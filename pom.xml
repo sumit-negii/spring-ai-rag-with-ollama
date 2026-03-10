@@ -75,6 +75,7 @@
 			<optional>true</optional>
 		</dependency>
 
+		<!-- Helps Spring AI automatically detect: Ollama container, Postgres container-->
 		<dependency>
 			<groupId>org.springframework.ai</groupId>
 			<artifactId>spring-ai-spring-boot-docker-compose</artifactId>
